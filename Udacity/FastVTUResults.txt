@@ -1,0 +1,7 @@
+﻿FastVTUResults
+
+Introduction: I am pursuing my Bachelors of Engineering (B.E) degree, currently in my third year. I study at R.N Shetty Institute of Technology (RNSIT), Bangalore, India. RNSIT is affiliated to Visvesvaraya Technological University (VTU), Belgaum, India.
+
+Problem Description: Toward the end of semester holidays, VTU uploads examination results of semesters 1 through 8 on their website- www.vtu.ac.in. Their official servers have poor load handling capacity and hence the servers collapse under the immense traffic.
+
+Solution: FastVTUResults.com is a website that indexes the data as soon as it is published. Their servers can handle traffic satisfactorily. My app (aptly named FastVTUResults) accesses data from www.fastvturesults.com. In future, I plan to implement a 'refresh until new data is downloaded' model on the day the results are announced. I plan to use the AlarmManager class.

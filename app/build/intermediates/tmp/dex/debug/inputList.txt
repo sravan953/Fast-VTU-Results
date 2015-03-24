@@ -1,0 +1,7 @@
+D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\classes\debug
+D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ff1dbe71b2db782a5a68fb26d8755a0bf8c74912.jar
+D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\pre-dexed\debug\classes-5470d982b555ee59f18facdc86b25d7751ea6813.jar
+D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c53b3eb8fe35f0b382d7a77297607ad651e2d13c.jar
+D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\pre-dexed\debug\jsoup-1.8.1-129ec4d8f33cd2ae89eeab1ee8182f165764f57f.jar
+D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\pre-dexed\debug\classes-d1b081f2e27a0e65ed388d2ff8f1b861d862eb1a.jar
+D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\pre-dexed\debug\classes-bd67dc1a236a3a783f44eeb6504a21fc43d281c3.jar

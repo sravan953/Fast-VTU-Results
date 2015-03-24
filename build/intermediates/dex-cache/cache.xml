@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Sravan\android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ff1dbe71b2db782a5a68fb26d8755a0bf8c74912.jar" />
+    </item>
+    <item
+        jar="D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\pre-dexed\debug\classes-5470d982b555ee59f18facdc86b25d7751ea6813.jar" />
+    </item>
+    <item
+        jar="D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\pre-dexed\debug\classes-bd67dc1a236a3a783f44eeb6504a21fc43d281c3.jar" />
+    </item>
+    <item
+        jar="D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c53b3eb8fe35f0b382d7a77297607ad651e2d13c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sravan\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.1\1eb6690b0c629d7000c77a72df5e822fb974f521\jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1eb6690b0c629d7000c77a72df5e822fb974f521">
+        <dex dex="D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\pre-dexed\debug\jsoup-1.8.1-129ec4d8f33cd2ae89eeab1ee8182f165764f57f.jar" />
+    </item>
+    <item
+        jar="D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Sravan\android\Android Studio Workspace\FastVTUResults\app\build\intermediates\pre-dexed\debug\classes-d1b081f2e27a0e65ed388d2ff8f1b861d862eb1a.jar" />
+    </item>
+
+</items>
