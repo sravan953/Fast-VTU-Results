@@ -41,6 +41,6 @@
         android:layout_below="@id/editUSN"
         android:layout_centerHorizontal="true"
         android:padding="@dimen/button_padding"
-        android:background="@drawable/ripple"/>
+        android:background="@color/colorAccent"/>
 
 </RelativeLayout>

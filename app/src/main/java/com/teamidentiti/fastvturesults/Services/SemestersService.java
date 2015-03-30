@@ -35,9 +35,8 @@ public class SemestersService extends IntentService {
     }
 
     private void fetchData(String url) {
-        Document doc= null;
         try {
-            doc = Jsoup.connect(url).get();
+            Document doc = Jsoup.connect(url).userAgent("Chrome/41.0.2228.0").get();
             Elements table=doc.getElementById("scell").getElementsByClass("table-hover");
             Elements tableRows=table.select("tr");
             tableRows.remove(0);

@@ -13,7 +13,7 @@ import android.view.MenuItem;
 public class MainActivity2 extends ActionBarActivity {
     static String USN;
     static String SEM;
-    static String URL="http://www.fastvturesults.com/check_new_results/";
+    static String URL="http://www.fastvturesults.com/result/";
     static int semItemClickY;
     static boolean twoPane=false;
 

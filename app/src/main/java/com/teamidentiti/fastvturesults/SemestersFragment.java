@@ -32,9 +32,6 @@ public class SemestersFragment extends Fragment implements AdapterView.OnItemCli
     private String selection= TableContract.SemestersContract.COLUMN_USN+"=?";
     private String[] selectionArgs={MainActivity2.USN};
 
-    private int rows=0;
-    private Elements tableCells;
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view=inflater.inflate(R.layout.fragment_semester, null);
@@ -112,7 +109,6 @@ public class SemestersFragment extends Fragment implements AdapterView.OnItemCli
         Intent i=new Intent(getActivity(), SemestersService.class);
         i.putExtra("URL", URL);
         i.putExtra("USN", MainActivity2.USN);
-        i.putExtra("SEM", MainActivity2.SEM);
         getActivity().startService(i);
     }
 
