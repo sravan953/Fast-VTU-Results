@@ -1,4 +1,4 @@
-package com.teamidentiti.fastvturesults;
+package com.teamidentiti.fastvturesults.Fragments;
 
 
 import android.app.Fragment;
@@ -16,11 +16,12 @@ import android.widget.ListView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
+import com.teamidentiti.fastvturesults.Activities.MainActivity2;
 import com.teamidentiti.fastvturesults.ProvidersAndHelpers.Provider;
 import com.teamidentiti.fastvturesults.ProvidersAndHelpers.TableContract;
+import com.teamidentiti.fastvturesults.R;
+import com.teamidentiti.fastvturesults.Adapters.SemestersTextAdapter;
 import com.teamidentiti.fastvturesults.Services.SemestersService;
-
-import org.jsoup.select.Elements;
 
 public class SemestersFragment extends Fragment implements AdapterView.OnItemClickListener, LoaderManager.LoaderCallbacks<Cursor> {
     private ListView list;

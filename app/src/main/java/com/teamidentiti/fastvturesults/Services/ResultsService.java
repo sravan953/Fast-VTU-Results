@@ -43,11 +43,12 @@ public class ResultsService extends IntentService {
         try {
             Document doc = Jsoup.connect(URL).userAgent("Chrome/41.0.2228.0").get();
             // Get data for header element that displays name, attempts etc
-            Elements header = doc.getElementsByClass("text-center");
-            headerElement1 = header.get(0).text();
-            headerElement2 = header.select("p").get(0).text();
-            headerElement3 = header.select("p").get(1).text();
-            headerElement4 = header.select("p").get(2).text();
+            Elements headers = doc.getElementsByClass("text-center");
+            headerElement1 = doc.title();
+            headers = headers.select("p");
+            headerElement2 = headers.get(0).text();
+            headerElement3 = headers.get(1).text();
+            headerElement4 = headers.get(2).text();
 
             // Get results data
             Elements table = doc.getElementsByClass("table-hover");

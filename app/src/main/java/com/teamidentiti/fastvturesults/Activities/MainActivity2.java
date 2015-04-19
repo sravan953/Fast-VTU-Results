@@ -1,4 +1,4 @@
-package com.teamidentiti.fastvturesults;
+package com.teamidentiti.fastvturesults.Activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,13 +9,16 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.teamidentiti.fastvturesults.R;
+import com.teamidentiti.fastvturesults.Fragments.SemestersFragment;
+
 
 public class MainActivity2 extends ActionBarActivity {
-    static String USN;
-    static String SEM;
-    static String URL="http://www.fastvturesults.com/result/";
-    static int semItemClickY;
-    static boolean twoPane=false;
+    public static String USN;
+    public static String SEM;
+    public static String URL="http://www.fastvturesults.com/result/";
+    public static int semItemClickY;
+    public static boolean twoPane=false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

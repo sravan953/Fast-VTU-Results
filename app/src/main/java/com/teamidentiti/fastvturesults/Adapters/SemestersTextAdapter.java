@@ -1,4 +1,4 @@
-package com.teamidentiti.fastvturesults;
+package com.teamidentiti.fastvturesults.Adapters;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -10,6 +10,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.teamidentiti.fastvturesults.ProvidersAndHelpers.TableContract;
+import com.teamidentiti.fastvturesults.R;
 
 /**
  * Created by Sravan on 2/9/2015.

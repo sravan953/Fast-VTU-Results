@@ -1,4 +1,4 @@
-package com.teamidentiti.fastvturesults;
+package com.teamidentiti.fastvturesults.Activities;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -12,6 +12,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Toast;
+
+import com.teamidentiti.fastvturesults.R;
 
 
 public class MainActivity extends ActionBarActivity implements View.OnClickListener {
